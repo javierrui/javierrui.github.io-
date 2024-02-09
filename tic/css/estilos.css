@@ -1,0 +1,20 @@
+img , video,iframe{
+	width:250px;
+	height:250px;
+	margin: 20px;
+}
+
+
+
+#panelDerecha{
+	float:right;
+}
+.articulo{
+	background: lightgreen;
+}
+
+#cabecera{
+	windt: 100%;
+	height: 50px;
+	background: lightpink;
+}
